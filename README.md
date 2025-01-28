@@ -29,15 +29,10 @@ Each script in this repository includes:
 
 ## 📖 How to Use
 
-1. Clone the repository:
+Use this to use scripts:
 ```powershell
-git clone https://github.com/[your-username]/[repo-name]
+powershell.exe -executionpolicy bypass
 ```
-
-2. Navigate to the script you want to use
-3. Right-click the `.ps1` file and select "Run with PowerShell" or launch from PowerShell console
-4. Follow the GUI prompts to perform your desired task
-
 ## 🔄 Updates
 
 This repository is actively maintained and regularly updated with new scripts and improvements. Watch or star the repository to stay informed about new additions and updates.
