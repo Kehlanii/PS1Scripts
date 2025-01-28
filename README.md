@@ -54,13 +54,5 @@ Contributions are welcome! If you have ideas for new scripts or improvements to 
 
 Always test scripts in a non-production environment first. Review the code before running it in your environment.
 
-## 📜 License
-
-[Your chosen license]
-
-## 📞 Contact
-
-[Your contact information or preferred method of communication]
-
 ---
 ⭐ If you find these tools useful, please consider giving this repository a star!
