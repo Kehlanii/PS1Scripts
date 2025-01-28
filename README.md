@@ -25,7 +25,6 @@ Each script in this repository includes:
 ## 🔧 Prerequisites
 
 - Windows PowerShell 5.1 or PowerShell Core 7.x
-- Windows 10/11 or Windows Server 2016+
 - Administrative privileges (for certain scripts)
 
 ## 📖 How to Use
