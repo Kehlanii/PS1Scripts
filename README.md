@@ -12,7 +12,6 @@ This repository contains PowerShell scripts with user-friendly GUI interfaces th
 - Scripts for bulk operations
 - Time-saving automation tools
 - Regular updates with new functionality
-- Detailed documentation for each script
 
 ## 📁 Repository Structure
 
